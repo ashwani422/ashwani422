@@ -5,9 +5,11 @@
 
 <br />
 
-![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani422)
+### Statistics :
 
-<br />
+![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani422&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani422&layout=compact&langs_count=10&theme=gruvbox)
 
 ### Languages and Tools:
 
