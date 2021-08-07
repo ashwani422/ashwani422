@@ -1,10 +1,11 @@
-## Hello! I am [Ashwani Kumar](https://github.com/ashwani422). 👋
-###### A
+## Hello! I am [Ashwani Kumar](https://github.com/ashwani422).
+
+#### I am a student and trying to learn new concepts in programming. If you want to help your welcome.
 
 🌱 I’m currently learning react.js
 
 ### Connect with me :
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashwani-kumar-0578891bb/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashwani-kumar-0578891bb/)
 
 <br />
 
