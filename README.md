@@ -1,8 +1,11 @@
-## Hello! I am [Ashwani Kumar](https://github.com/ashwani422). 👋
+## Hello!👋 I'm _Ashwani Kumar_.
 
-#### I am a student and trying to learn new concepts in programming. If you want to help your welcome.
+I am a student and trying to learn new concepts in programming. If you want to help, your welcome.
 
-🌱 I’m currently learning react.js
+Now a days I’m learning -
+
+- 🌱 Node.js & Express.js
+- 🌱 React.js & Redux.js
 
 ### Connect with me :
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashwani-kumar-0578891bb/)
@@ -10,8 +13,6 @@
 <br />
 
 ### Statistics :
-
-![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani422&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani422&layout=compact&langs_count=10&theme=dracula)
 
