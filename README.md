@@ -19,7 +19,7 @@ Now a days I’m learning/working on -
 
 ### Languages and Tools:
 
-<a target="_blank" href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 
